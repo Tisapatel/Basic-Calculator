@@ -1,0 +1,49 @@
+
+# Basic Calculator Web Application
+
+This is a simple web-based calculator built using **HTML**, **CSS**, and **JavaScript**. It allows users to perform basic arithmetic operations: addition, subtraction, multiplication, division, and percentage calculation.
+
+## 📁 Project Structure
+
+```
+calculator.html        -> Main HTML file for the calculator interface
+style.css              -> Contains styling rules for the calculator layout (if external)
+script.js              -> JavaScript functionality for performing operations (if external)
+bg-image.jpg           -> Optional background image (for styling)
+```
+
+## 💡 Features
+
+- **Addition, Subtraction, Multiplication, Division, and Percentage** calculations
+- User-friendly and responsive UI
+- Clear button to reset all inputs
+- Input validation to prevent invalid operations (like division by zero)
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+## 📋 Instructions
+
+1. Open `calculator.html` in a web browser.
+2. Enter values in the "First Number" and "Second Number" input fields.
+3. Click on the desired operation button (+, -, *, /, %) to see the result.
+4. Use the "Clear" button to reset all inputs.
+
+## 🚨 Validation Rules
+
+- Ensures both inputs are numbers (except when using the percentage button, which uses only the first input).
+- Alerts if fields are empty or if invalid operations (e.g., divide by zero) are attempted.
+
+## 📸 Screenshot
+
+*(You can add a screenshot of the calculator interface here if needed.)*
+
+## 🧠 Author Notes
+
+This project is great for beginners looking to understand basic web development, DOM manipulation, and interactive UI behavior using vanilla JavaScript.
+
+---
+© 2025 Basic Calculator Web App. All rights reserved.
