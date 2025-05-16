@@ -10,4 +10,5 @@ division
 percentage
 ![Screenshot 2025-05-16 135225](https://github.com/user-attachments/assets/6a0847b9-3089-4c42-a050-c6da911acd9c)
 clear
-![Uploading Screenshot 2025-05-16 135308.png…]()
+![Screenshot 2025-05-16 135308](https://github.com/user-attachments/assets/406d5000-c4fb-4389-8a8f-d78380ac3e54)
+
